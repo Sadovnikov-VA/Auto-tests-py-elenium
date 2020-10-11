@@ -1,3 +1,16 @@
 # Auto-tests-py-elenium
 stepik — auto tests course
-auto test Leha
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+
+end
